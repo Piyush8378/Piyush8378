@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Sharma</h1>
 <h3 align="center">A passionate frontend developer and Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Piyush8378/Piyush8378/assets/160376073/4a5b23be-fc6c-48d8-b641-6c6cee8b30eb)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Piyush8378/Piyush8378/assets/160376073/eb5a9aa9-7fd4-4bd6-afeb-6da37b5d863e)
+
 ">
 - 🌱 I’m currently learning **Blockchain**
 
